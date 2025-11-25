@@ -441,7 +441,7 @@ Este proyecto es de código abierto y está disponible bajo la [MIT License](LIC
 
 ## 👥 Autores
 
-- **Tu Nombre** - *Desarrollo completo* - [GitHub](https://github.com/tu-usuario)
+- **Fabian jaimes** - *Desarrollo completo* - [GitHub](https://github.com/FabianXF)
 
 ---
 
