@@ -451,20 +451,6 @@ Este proyecto es de código abierto y está disponible bajo la [MIT License](LIC
 - Comunidad Flutter por la documentación
 - Spring Boot por el framework robusto
 
----
-
-## 📞 Contacto
-
-- **Email**: tu-email@example.com
-- **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
-- **LinkedIn**: [Tu Nombre](https://linkedin.com/in/tu-perfil)
 
 ---
 
-<div align="center">
-
-**⭐ Si te gustó este proyecto, dale una estrella ⭐**
-
-Hecho con ❤️ usando Flutter y Spring Boot
-
-</div>
