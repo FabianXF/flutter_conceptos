@@ -1,0 +1,51 @@
+# Flutter
+flutter_application_1/.dart_tool/
+flutter_application_1/.flutter-plugins
+flutter_application_1/.flutter-plugins-dependencies
+flutter_application_1/.packages
+flutter_application_1/build/
+flutter_application_1/.pub-cache/
+flutter_application_1/.pub/
+flutter_application_1/pubspec.lock
+
+# Flutter Windows
+flutter_application_1/windows/flutter/ephemeral/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Java / Maven
+Api_java/estudianteApi/target/
+Api_java/estudianteApi/.mvn/
+Api_java/estudianteApi/mvnw
+Api_java/estudianteApi/mvnw.cmd
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Configuración sensible
+Api_java/estudianteApi/src/main/resources/application-prod.properties
+
+# Base de datos local
+*.db
+*.sqlite
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
+
+# Node modules (si usas algún tool de Node)
+node_modules/
