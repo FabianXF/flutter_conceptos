@@ -354,7 +354,6 @@ Proyecto_final_mobiles/
 ├── prueba.sql                   # Schema de base de datos
 ├── README.md                    # Este archivo
 ├── GUIA_ESTUDIO_TEMAS.md       # Guía de temas implementados
-└── ANALISIS_BASE_DATOS.md      # Análisis de BD
 ```
 
 ---
@@ -396,40 +395,6 @@ Proyecto_final_mobiles/
 - ✅ Servicios REST
 
 **Ver documentación completa**: [GUIA_ESTUDIO_TEMAS.md](GUIA_ESTUDIO_TEMAS.md)
-
----
-
-## 📸 Capturas de Pantalla
-
-### Login
-Pantalla de autenticación con validación de formularios.
-
-### Inicio
-Dashboard principal con navegación por Drawer.
-
-### Cursos
-Registro y visualización de cursos con información detallada.
-
-### Tareas
-Lista de tareas con filtros y contador de días restantes.
-
-### Tienda
-Catálogo de materiales con búsqueda y filtros.
-
-### Perfil
-Información del usuario con edición funcional.
-
----
-
-## 🤝 Contribuir
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
 
 ---
 
