@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Tomates Frescos",
+    "precio": "3.000",
+    "imagen": "https://media.istockphoto.com/id/1132371208/photo/three-ripe-tomatoes-on-green-branch.jpg?s=612x612&w=0&k=20&c=qVjDb5Tk3-UccV-E9gqvoz97PTsP1QmBftw27qA9kEo="
+  },
+  {
+    "nombre": "Lechuga Orgánica",
+    "precio": "2.000",
+    "imagen": "https://www.shutterstock.com/image-photo/green-lettuce-leaves-on-white-260nw-2482802313.jpg"
+  },
+  {
+    "nombre": "Zanahoria",
+    "precio": "5.000",
+    "imagen": "https://media.istockphoto.com/id/1251268131/photo/senior-man-with-bunch-of-freshly-harvested-carrots.jpg?s=612x612&w=0&k=20&c=N-xOciVFINYbPDf0FzV1tjwtfnc7gYEMW2TpW8h3bCg="
+  },
+  {
+    "nombre": "Espinacas Frescas",
+    "precio": "2.500",
+    "imagen": "https://www.shutterstock.com/image-photo/background-fresh-green-spinach-leaves-260nw-2491123299.jpg"
+  }
+]
